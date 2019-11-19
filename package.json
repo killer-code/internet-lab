@@ -10,7 +10,10 @@
   "keywords": [],
   "author": "Dmitriy killer_code@bk.ru",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.11.2",
+    "normalize.css": "^8.0.1"
+  },
   "devDependencies": {
     "browser-sync": "^2.26.7",
     "gulp": "^4.0.2",
@@ -19,7 +22,8 @@
     "gulp-pug": "^4.0.1",
     "gulp-rename": "^1.4.0",
     "gulp-stylus": "^2.7.0",
-    "gulp-uglify-es": "2.0.0"
+    "gulp-uglify-es": "2.0.0",
+    "normalize.css": "^8.0.1"
   },
   "browserslist": [
     "defaults"
